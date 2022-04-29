@@ -19,6 +19,7 @@ This is an OauthBoilerPlate repository which authenticate user using Google Oaut
   * Add Oauth Consent Screen Info 
   * Create Credentials using OAuth Client ID 
   * Generate Client ID and Client ID
+  * Create dev.js file inside config folder
   * Copy Mongo_URI,Client ID and Client ID and add them into config/dev.js file 
 
 ### Production 
